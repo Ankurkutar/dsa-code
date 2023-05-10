@@ -1,0 +1,2 @@
+enqueue(head,23);
+    
